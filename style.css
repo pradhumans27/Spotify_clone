@@ -59,3 +59,18 @@
     color: grey;
 
 }
+.right{
+    margin:16px 0px ;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(35, 35, 35);
+}
+.header >* {
+padding: 20px;
+}
+
+.spotifyPlaylist{
+    padding: 16px;
+}
